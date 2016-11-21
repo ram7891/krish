@@ -2,4 +2,5 @@ hi
 this is rk
 satish teaching git
 :
+rk and satish combine studying
 
